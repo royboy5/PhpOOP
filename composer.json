@@ -1,0 +1,14 @@
+{
+    "name": "Foobar",
+    "authors": [
+        {
+            "name": "Foo Bar",
+            "email": "foo.bar@foobar.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Foobar\\": "src/"
+        }
+    }
+}
