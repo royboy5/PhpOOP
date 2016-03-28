@@ -1,0 +1,6 @@
+{
+  "name": "PHP OOP",
+  "tagline": "OOP in PHP by using the Strategy Pattern",
+  "body": "#  PHP OOP\r\n\r\nProject used to demonstrate OOP with Strategy Pattern.\r\n\r\nUsed Composer and PSR-4 Autoloading to separate each class into files.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
